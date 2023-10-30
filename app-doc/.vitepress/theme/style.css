@@ -1,0 +1,14 @@
+/* .vitepress/theme/style.css */
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+}
+h4 {
+  margin-top: 1rem;
+}
+.figure .image {
+  width: 120px;
+}
+.page .container {
+  max-width: 66rem;
+}
