@@ -73,7 +73,7 @@ build
 
 dist/
 dist-ssr/
-
+target/
 
 
 # dependencies
@@ -100,3 +100,4 @@ dist-ssr/
 
 
 temp/
+*.db
