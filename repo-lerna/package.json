@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.18.0",
+    "pnpm": ">=8"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.4.2"
+  }
+}
