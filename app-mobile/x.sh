@@ -46,8 +46,8 @@ npm install --save-dev @vitejs/plugin-vue
 npm install --save-dev @rushstack/eslint-patch
 
 
-npx cap init
-npx cap add android
-npx cap add ios
+# npx cap init
+# npx cap add android
+# npx cap add ios
 
 # npx cap sync
